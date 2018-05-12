@@ -1,0 +1,33 @@
+_repo: Everychild--13-A-Story-Which-The-Old-May-Interpret-to-the-Young-and-Which-the-Young-May-Inter__17521
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Laite, Blanche Fisher
+    gutenberg_agent_id: '7435'
+    url: http://www.gutenberg.org/2009/agents/7435
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodge, Louis
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '7434'
+    url: http://www.gutenberg.org/2009/agents/7434
+description: ''
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+title: "Everychild\r\nA Story Which The Old May Interpret to the Young and Which the\
+  \ Young May Interpret to the Old"
+url: http://www.gutenberg.org/ebooks/17521
